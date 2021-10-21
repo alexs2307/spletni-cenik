@@ -1,0 +1,64 @@
+.container-fluid h4{color:white;
+font-family: 'Brush Script MT', cursive;
+text-align:center;
+font-size:3rem;
+}
+
+
+.header{ background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.0)),url(/static/img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    height:50rem;
+
+}
+.menu h3{
+font-family: 'Indie Flower', cursive;
+text-align: center;
+font-size: 4rem;
+color:white;
+}
+.menu{
+text-align:center;
+}
+
+.flag{
+text-align:center;
+
+
+}
+.flag p{
+color:white;
+text-align:center;
+font-family: 'Indie Flower', cursive;
+font-size: 2rem;
+
+}
+.flag img{
+width:auto;
+height:auto;
+}
+.offer{
+text-align:center;
+color:white;
+font-family: 'Indie Flower', cursive;
+font-size: 2rem;
+}
+
+.offer h2{
+
+font-size:3rem;
+text-align:center;
+color:white;
+font-family: 'Indie Flower', cursive;
+
+
+}
+
+.offer p{
+font-size:1.5rem;}
+
+#ponudba a{
+
+color:white;
+}
